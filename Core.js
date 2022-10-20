@@ -4706,7 +4706,7 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
       
  const helpmenu = `Konichiwa *${pushname}* Senpai,
 
-I am *Miku Nakano*, a bot developed by *Fantox*.
+I am *StG-44*, a bot developed by *DylonKejhu*.
 
 🔰 My prefix is:  ${prefix}
 
@@ -4780,7 +4780,7 @@ qr, say, translate, fliptext, toletter
 
 
  『  *${global.BotName}*  』
- Powered by: *Fantox*
+ Powered by: *DylonKejhu*
 
  🔰 To use any of these commands type 
  " *${prefix}<Command name>* ".
